@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Совунья</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Фиолетовая птица aka Совунья</h1>
+    </header>
+    <div class="container">
+        <div class="image-container">
+            <div class="arrow arrow-left" onclick="prevImage()">&#8592;</div>
+            <img src="images/sov2.jpg" id="image" alt="Совунья">
+            <div class="arrow arrow-right" onclick="nextImage()">&#8594;</div>
+        </div>
+        <h2>О персонаже</h2>
+        <p>Олицетворяет русских бабушек во всех красе!</p>
+        <p>Добрая, заботливая, умная птица.</p>
+        <h3>Интересные факты</h3>
+        <ul>
+            <li>Потеряла свою любовь</li>
+            <li>Химичит</li>
+            <li>Озвучивает Сергей Мардарь</li>
+        </ul>
+        <a href="https://losyash-library.fandom.com/ru/wiki/%D0%A1%D0%BE%D0%B2%D1%83%D0%BD%D1%8C%D1%8F" target="_blank">Можно прочитать вот тут</a>
+        <br>
+        <button onclick="changeBackground()">Сменить цвет фона</button>
+        <button onclick="changeBackgroundConstant()">RGB прикол</button>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
