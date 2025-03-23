@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script type="module" src="main.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Погода в вашем городе</h1>
+        <form id="weather-form">
+            <input type="text" id="city-input" placeholder="Введите город" required>
+            <button type="submit">Поиск</button>
+            <button type="button" id="get-ip-button">Узнать свой IP</button> <!-- Новая кнопка -->
+        </form>
+        <div id="ip-display"></div> <!-- Элемент для отображения IP -->
+        <div id="widgets-container"></div>
+    </div>
+</body>
+</html>
