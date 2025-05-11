@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Karkulevskiy/karkulevskiy.github.io/static/css/main.cc238dbe.css",
-    "main.js": "/Karkulevskiy/karkulevskiy.github.io/static/js/main.3f077723.js",
-    "index.html": "/Karkulevskiy/karkulevskiy.github.io/index.html",
-    "main.cc238dbe.css.map": "/Karkulevskiy/karkulevskiy.github.io/static/css/main.cc238dbe.css.map",
-    "main.3f077723.js.map": "/Karkulevskiy/karkulevskiy.github.io/static/js/main.3f077723.js.map"
+    "main.css": "/Karkulevskiy/static/css/main.cc238dbe.css",
+    "main.js": "/Karkulevskiy/static/js/main.3f077723.js",
+    "index.html": "/Karkulevskiy/index.html",
+    "main.cc238dbe.css.map": "/Karkulevskiy/static/css/main.cc238dbe.css.map",
+    "main.3f077723.js.map": "/Karkulevskiy/static/js/main.3f077723.js.map"
   },
   "entrypoints": [
     "static/css/main.cc238dbe.css",
