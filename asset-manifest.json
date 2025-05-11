@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Karkulevskiy/static/css/main.cc238dbe.css",
-    "main.js": "/Karkulevskiy/static/js/main.3f077723.js",
+    "main.js": "/Karkulevskiy/static/js/main.157ef08e.js",
     "index.html": "/Karkulevskiy/index.html",
     "main.cc238dbe.css.map": "/Karkulevskiy/static/css/main.cc238dbe.css.map",
-    "main.3f077723.js.map": "/Karkulevskiy/static/js/main.3f077723.js.map"
+    "main.157ef08e.js.map": "/Karkulevskiy/static/js/main.157ef08e.js.map"
   },
   "entrypoints": [
     "static/css/main.cc238dbe.css",
-    "static/js/main.3f077723.js"
+    "static/js/main.157ef08e.js"
   ]
 }
